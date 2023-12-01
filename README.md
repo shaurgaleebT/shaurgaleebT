@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shaurgaleebT
-- 👀 I’m interested in MERN Stack Developer
-- 🌱 I’m currently learning  about React js
-- 💞️ I’m looking to collaborate on Web Development project
-- 📫  reach me via email: galeeb233@gmail.com ...
+- 👋 Hi, I’m @shaurgaleebT an Enthusiastic Front End Developer
+- 👀 I’m interested in UI/UX developing areas
+- 🌱 I’m currently learning working as React js developer 
+- 💞️ I’m looking to collaborate on Web Development projects
+- 📫  reach me via email: galeeb233@gmail.com
 
 <!---
 shaurgaleebT/shaurgaleebT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
